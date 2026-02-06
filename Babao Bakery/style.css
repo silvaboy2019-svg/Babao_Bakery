@@ -1,0 +1,92 @@
+/* GENERAL PAGE STYLE */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fff7f0;
+    color: #333;
+}
+
+/* HEADER */
+header {
+    background-color: #c45a1a;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* NAVIGATION */
+nav a {
+    color: white;
+    margin: 0 12px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* MAIN CONTENT */
+main {
+    padding: 30px;
+    max-width: 900px;
+    margin: auto;
+}
+
+/* HEADINGS */
+h2 {
+    color: #af490a;
+}
+
+/* IMAGES */
+.main-image {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: block;
+}
+
+/* MENU IMAGES */
+.menu-image {
+    width: 180px;
+    border-radius: 10px;
+}
+
+/* LIST STYLE */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+/* FORM */
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* BUTTON */
+button {
+    background-color: #c45a1a;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #a94a14;
+}
+
+/* FOOTER */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
